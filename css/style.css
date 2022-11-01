@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "Oswald";
+    src: url("fonts/Oswald-Regular.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Oswald-light";
+    src: url("fonts/Oswald-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Roboto-Black";
+    src: url("fonts/Roboto-Black.ttf");
+    font-weight: 300;
+}
+
+h1 {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 30px;
+    font-size: 34px;
+    font-weight: 700;
+}
+
+h2 {
+    color: black;
+    font-family: "Roboto-Black";
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 30px;
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.content {
+    color: black;
+    font-family: "Roboto-Black";
+    text-align: justify;
+    text-transform: uppercase;
+    line-height: 30px;
+    font-size: 24px;
+    font-weight: 300;
+}
+p {
+    color: rgb(202, 37, 172);
+    font-family: "Roboto-Black";
+    text-align: justify;
+    text-transform: uppercase;
+    line-height: 30px;
+    font-size: 24px;
+    font-weight: 300;
+
+ul {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    text-transform: uppercase;
+    line-height: 30px;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+img {
+    width: 836px;
+    margin: 5;
+    box-shadow: 0px 0px 30px;
+}
+#Bevezet {color: darkorange;}
+
+#Megszolit {color: chartreuse;}
